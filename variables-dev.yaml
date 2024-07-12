@@ -2,9 +2,9 @@ MONGODB_HOST: mongodb-dev.devops1.website  # submit your host
 REDIS_HOST: redis-dev.devops1.website 
 MYSQL_HOST: mysql-dev.devops1.website 
 RABBITMQ_HOST: rabbitmq-dev.devops1.website 
-CATALOGUE_HOST: catalogue-dev.devops1.website 
-USER_HOST: user-dev.devops1.website 
-CART_HOST: cart-dev.devops1.website 
-SHIPPING_HOST: shipping-dev.devops1.website 
-PAYMENT_HOST: payment-dev.devops1.website 
-DISPATCH_HOST: dispatch-dev.devops1.website
+CATALOGUE_HOST: catalogue.app-dev.devops1.website 
+USER_HOST: user.app-dev.devops1.website 
+CART_HOST: cart.app-dev.devops1.website 
+SHIPPING_HOST: shipping.app-dev.devops1.website 
+PAYMENT_HOST: payment.app-dev.devops1.website 
+DISPATCH_HOST: dispatch.app-dev.devops1.website
